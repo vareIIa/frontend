@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Scratch",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Scratch1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "No Code",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+NoCode1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Linux",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Linux1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Introdução a Web",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+IntroWeb+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "POO",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+POO1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "JavaScript",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+JS1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Banco de Dados",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+BD1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Python I",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:Projeto_Desenvolve+PY001+2024_S2/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Python II",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Python2+2024/home",
+      "contexto": "Apresentação curso"
+    }
+  ]
